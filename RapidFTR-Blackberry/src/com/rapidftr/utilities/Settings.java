@@ -9,7 +9,7 @@ public class Settings {
 
 	private static final String LAST_USED_HOST_KEY = "last.used.host";
 	
-	private static final String DEFAULT_URL = "https://dev.rapidftr.com";
+	private static final String DEFAULT_URL = "https://uganda.rapidftr.com";
 
 	private static final String AUTHORISATION_TOKEN = "authorisation.token";
 	private static final String AUTHORISATION_TOKEN_FOR_OFFLINE_LOGIN = "temp.authorisation.token";
